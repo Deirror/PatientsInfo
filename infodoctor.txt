@@ -1,0 +1,7 @@
+Kiril Ivanov 16.10.1964 YES diabetic 4
+Anelia Liliva 30.01.1973 NO Nonhosp 0
+Aleksandur Angelov 19.11.2004 NO Nonhosp 0
+Jan Nikolov 30.01.2004 YES Nonhosp 0
+San Huano 10.10.2010 YES illness 12
+Dariya Lidiewa 12.03.2006 YES Nonhosp 1
+Qwerty qw 14.10.2010 YES Nonhosp 1
