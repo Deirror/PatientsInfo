@@ -1,6 +1,6 @@
 # PatiensInfo
 
-Description:
+Description
 -
 
 This is a console MVC project, which was made by me during my exam for C# Programmer.
